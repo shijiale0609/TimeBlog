@@ -1,4 +1,4 @@
-# Section1: 研究想法
+# Section1: 研究和技术
 
 [Return to Home](README.md)
 

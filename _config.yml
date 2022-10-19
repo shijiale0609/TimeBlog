@@ -1,5 +1,5 @@
-#title: Cayman theme
-#description: Cayman is a clean, responsive theme for GitHub Pages.
+title: Time Blog for Ideas
+description: 用博客记录科研、生活、政治、经济方面的想法和复盘
 show_downloads: true
-google_analytics:
+google_analytics: UA-139903254-1
 theme: jekyll-theme-cayman

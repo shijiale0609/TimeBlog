@@ -1,4 +1,4 @@
-# Section3: 政治
+# Section3: 政治与经济
 
 [Return to Home](README.md)
 
